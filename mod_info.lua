@@ -1,0 +1,16 @@
+name = "ZoomPopPlus"
+uid = "b0ef802f-4aad-4fed-b7f5-ZoomPopPlus-v1"
+version = 1
+copyright = "MIT License"
+description = "Zoom Pop, but better. WIP, behavior might change."
+author = "CheeseBerry"
+url = "https://github.com/ChessBerry/ZoomPopPlus"
+selectable = true
+enabled = true
+exclusive = false
+ui_only = true
+requires = {}
+requiresNames = {}
+conflicts = {}
+before = {}
+after = {}
